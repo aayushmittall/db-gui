@@ -1,0 +1,35 @@
+table {
+  border: 2px solid black;
+  align-items: center;
+  padding: 0px;
+  width: 50%;
+  align-self: center;
+  margin: auto;
+}
+div {
+  font-family: "Segoe UI";
+}
+th,
+td {
+  border-bottom: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  height: 30px;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+button {
+  color: azure;
+  background-color: rgb(27, 26, 26);
+  padding: 2px 6px;
+  border: none;
+  width: 100px;
+  font-family: "Segoe UI";
+  align-content: center;
+  height: 22px;
+}
+button:hover {
+  background-color: #fadddd;
+  color: black;
+}

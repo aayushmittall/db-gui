@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  align-content: space-around;
+  justify-content: space-around;
+  justify-items: center;
+}
+.navbar {
+  background-color: rgb(27, 26, 26);
+  height: 30px;
+  color: rgb(249, 252, 252);
+  padding: 3px;
+}
+.btn-add {
+  color: azure;
+  background-color: rgb(27, 26, 26);
+  padding: 5px 6px;
+  margin-top: 10px;
+  border: none;
+}
