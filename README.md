@@ -14,7 +14,7 @@ Open [http://localhost:8000/ui]
 
 This app provides us a graphical user interface to make changes in MySQL Database.
 
- -We can create , get , edit and delete the contents of the Database.
- -User don't have to write or know any SQL commands.
- -Buttons are provided for different functions
+ -We can create , get , edit and delete the contents of the Database.<br>
+ -User don't have to write or know any SQL commands.<br>
+ -Buttons are provided for different functions.<br>
 
