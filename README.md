@@ -7,7 +7,7 @@ GOLANG for API,SERVING(UI).<br>
 MYSQL for DATABASE.<br>
 
 Runs the app in the development mode.<br>
-Open [http://localhost:8000/ui]
+Open http://localhost:8000/ui
 
 ## Features
 
